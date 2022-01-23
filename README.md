@@ -1,16 +1,12 @@
-# al_quran_iust
+# AL_Quran
 
-A new Flutter project.
+This is a quran reading app and with beautiful background images, making the user experience even better.
 
-## Getting Started
+Features to be added:
 
-This project is a starting point for a Flutter application.
+. Bookmark
+. audio
+. different styles and translations
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![12a](https://user-images.githubusercontent.com/81242678/150671255-c0e0bc9e-8dae-4171-af38-919773988710.jpg)
+![11a](https://user-images.githubusercontent.com/81242678/150671265-bd8f2a65-e26d-4b5f-9786-f81663b13dc2.jpg)
