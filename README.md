@@ -8,5 +8,7 @@ Features to be added:
 . audio
 . different styles and translations
 
-![12a](https://user-images.githubusercontent.com/81242678/150671255-c0e0bc9e-8dae-4171-af38-919773988710.jpg)
-![11a](https://user-images.githubusercontent.com/81242678/150671265-bd8f2a65-e26d-4b5f-9786-f81663b13dc2.jpg)
+![12a](https://user-images.githubusercontent.com/81242678/150671255-c0e0bc9e-8dae-4171-af38-919773988710.jpg) ![11a](https://user-images.githubusercontent.com/81242678/150671265-bd8f2a65-e26d-4b5f-9786-f81663b13dc2.jpg)
+
+Contact Info:
+zaiddento@gmail.com
